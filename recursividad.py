@@ -73,3 +73,7 @@ print(sigma(5))
 
 #RETO GRUPAL: Función factorial recursiva. Función que reciba un número y regrese el número factorial.
 #Ej. 4 -> 4*3*2*1
+
+
+#RETO GRUPAL: Función fibonacci recursiva. Función que recibe un num positivo y regresa el número recibido de la serie de fibonacci
+#Serie: 0 1 1 2 3 5 8 13 21 . 5
